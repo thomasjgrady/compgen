@@ -1,0 +1,10 @@
+{
+    "typeCheckingMode": "strict",
+    "reportUnnecessaryIsInstance": "none",
+    "reportUnknownArgumentType": "none",
+    "reportUnknownLambdaType": "none",
+    "reportUnknownMemberType": "none",
+    "reportUnknownParameterType": "none",
+    "reportUnknownVariableType": "none",
+    "ignore": []
+}
